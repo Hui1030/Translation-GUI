@@ -6,3 +6,6 @@ https://www.zhihu.com/question/32703639/answer/165326590
 
 三种对话框（消息、文件、颜色）的属性说明：
 https://blog.csdn.net/bemorequiet/article/details/54744511
+
+
+Tkinter GUI拖拽工具：PAGE - Python Automatic GUI Generator - Version 4.14：http://page.sourceforge.net/
