@@ -9,3 +9,6 @@ https://blog.csdn.net/bemorequiet/article/details/54744511
 
 
 Tkinter GUI拖拽工具：PAGE - Python Automatic GUI Generator - Version 4.14：http://page.sourceforge.net/
+
+
+知乎专栏-PyQt5图形界面编程：https://zhuanlan.zhihu.com/xdbcb8
