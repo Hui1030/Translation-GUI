@@ -13,4 +13,4 @@ Tkinter GUI拖拽工具：PAGE - Python Automatic GUI Generator - Version 4.14�
 
 知乎专栏-PyQt5图形界面编程：https://zhuanlan.zhihu.com/xdbcb8
 
-教材配套代码：《PyQt5快速开发与实战》配套代码 https://github.com/cxinping/PyQt5
+教材配套代码：王硕《PyQt5快速开发与实战》配套代码 https://github.com/cxinping/PyQt5
